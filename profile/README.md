@@ -10,6 +10,18 @@ We build websites, automation pipelines, and lead-gen systems for local business
 
 </div>
 
+<div align="center">
+
+### 🤝 Connect With Us
+
+[![Website](https://img.shields.io/badge/Website-wedigitalmitra.com-0F2D52?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wedigitalmitra.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-We_Digital_Mitra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/107340748/)
+[![X](https://img.shields.io/badge/X-@PsProsenDev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PsProsenDev)
+[![Email](https://img.shields.io/badge/Email-contact%40wedigitalmitra.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@wedigitalmitra.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_89429_63453-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918942963453)
+
+</div>
+
 ---
 
 ## What we do
